@@ -33,10 +33,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-## 🛡️ License
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-"## 🌟 About Me
-
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!" write a same intro for me. 
+🌟 About Me
+Hi there! I'm Shivam Shende. I’m a final-year Computer Engineering student and a dedicated tech enthusiast on a mission to build innovative, secure solutions. Whether I'm exploring the complexities of Artificial Intelligence and Machine Learning or architecting smart contracts on the Blockchain, I love turning complex ideas into impactful technology! 
